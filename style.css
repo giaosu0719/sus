@@ -1,0 +1,10 @@
+
+.vid1, .vid2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    background-color: black;
+    color: white;
+}
